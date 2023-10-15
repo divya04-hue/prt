@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: divya
-        image: divya560035:latest
+        image: divyahue/divya560035:latest
